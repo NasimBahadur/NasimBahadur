@@ -7,7 +7,7 @@ I'm a passionate Full Stack Web Developer from Bangladesh with some experience i
 Currently, I am working on BJET Project (a Bangladesh Japan IT Engineer Training Program) as a Trainee.
 
 ## 🧠 What I'm currently learning
-I'm currently learning Laravel, AWS, ReactJS, and NodeJS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
+I'm currently learning ReactJS, NodeJS, Laravel and AWS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
 
 ## 💬 Ask me about
 - <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Git/GitHub, Machine Learning
