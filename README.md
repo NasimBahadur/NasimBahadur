@@ -41,7 +41,7 @@ I've very active, writing content regularly to at least one of these.
 <a href="https://img.icons8.com/officel/256/php-logo.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/officel/256/php-logo.png" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://img.icons8.com/color/256/c-plus-plus-logo.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://img.icons8.com/color/256/python.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/python.png" alt="illustrator" width="40" height="40"/> </a> 
-
+<a href="https://img.icons8.com/color/256/mysql-logo.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/mysql-logo.png" alt="illustrator" width="40" height="40"/> </a> 
   
 <!---
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
