@@ -10,7 +10,7 @@ Currently, I am working on BJET Project (a Bangladesh Japan IT Engineer Training
 I'm currently learning Laravel, AWS, ReactJS, and NodeJS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
 
 ## 💬 Ask me about
-- <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Software Development Processes, Git/GitHub, Project Management & Strategy, Machine Learning
+- <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Git/GitHub, Machine Learning
 - <b>Technologies:</b> HTML, CSS, Bootstrap, MySQL, PHP, Python, C++
 
 <!---
@@ -39,7 +39,9 @@ I've very active, writing content regularly to at least one of these.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-
+<a href="https://img.icons8.com/color/256/c-plus-plus-logo.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://img.icons8.com/color/256/python.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/python.png" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://img.icons8.com/color/256/python.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/python.png" alt="illustrator" width="40" height="40"/> </a> 
 <!---
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 
