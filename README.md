@@ -7,10 +7,10 @@ I'm a passionate Software Developer and  AI/ML Enthusiast with some experience i
 Currently, I am working on BJET Project (a Bangladesh Japan IT Engineer Training Program) as a Trainee. This training program aims to develop ICT engineers to work in Japanese IT companies with skills set in the Japanese language, IT skills, and Soft skills.
 
 ## 🧠 What I'm currently learning
-I'm currently learning ReactJS, NodeJS and AWS to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
+I'm currently learning ReactJS and MongoDB to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
 
 ## 💬 Ask me about
-- <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Git/GitHub, Machine Learning
+- <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Machine Learning
 - <b>Technologies:</b> HTML, CSS, Bootstrap, MySQL, PHP, Python, C++
 
 <!---
