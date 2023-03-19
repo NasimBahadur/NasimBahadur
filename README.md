@@ -1,7 +1,7 @@
 <img alt="Coder GIF" src="https://github.com/NasimBahadur/NasimBahadur/blob/main/image.png" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Nasim Bahadur👋</h1>
 <h3 align="left">Trainee @ B-JET</h3>
-I'm a passionate Full Stack Web Developer and  AI/ML Enthusiast with some experience in academic/personal projects on building web applications using HTML, CSS, Bootstrap, Javascript, MySQL, PHP etc. I have a good foundation in Web Techologies, Machine Learning and Data Science. I'm constantly learning new technologies to stay up-to-date with the latest trends.
+I'm a passionate Software Developer and  AI/ML Enthusiast with some experience in academic/personal projects on building web applications using HTML, CSS, Bootstrap, Javascript, MySQL, PHP etc. I have a good foundation in Web Techologies, Machine Learning and Data Science. I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
 ## 👨🏽‍💻 What I'm working on
 Currently, I am working on BJET Project (a Bangladesh Japan IT Engineer Training Program) as a Trainee. This training program aims to develop ICT engineers to work in Japanese IT companies with skills set in the Japanese language, IT skills, and Soft skills.
