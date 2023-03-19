@@ -4,7 +4,7 @@
 I'm a passionate Software Developer and  AI/ML Enthusiast with some experience in academic/personal projects on building web applications using HTML, CSS, Bootstrap, Javascript, MySQL, PHP etc. I have a good foundation in Web Techologies, Machine Learning and Data Science. I'm constantly learning new technologies to stay up-to-date with the latest trends.
 
 ## 👨🏽‍💻 What I'm working on
-Currently, I am working on BJET Project (a Bangladesh Japan IT Engineer Training Program) as a Trainee. This training program aims to develop ICT engineers to work in Japanese IT companies with skills set in the Japanese language, IT skills, and Soft skills.
+Currently, I am working on B-JET Project (a Bangladesh-Japan IT Engineer Training Program) as a Trainee. This training program aims to develop ICT engineers to work in Japanese IT companies with skills set in the Japanese language, IT skills, and Soft skills.
 
 ## 🧠 What I'm currently learning
 I'm currently learning ReactJS and MongoDB to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
