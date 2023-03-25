@@ -11,7 +11,7 @@ Currently, I am working on B-JET Project (a Bangladesh-Japan IT Engineer Trainin
 --->
 
 ## 🧠 What I'm currently learning
-I'm currently learning ReactJS and MongoDB to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful Full Stack Web Developer.
+I'm currently learning ReactJS and MongoDB to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful.
 
 ## 💬 Ask me about
 - <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Machine Learning
