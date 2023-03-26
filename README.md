@@ -1,6 +1,8 @@
 <!---
 <img alt="Coder GIF" src="https://github.com/NasimBahadur/NasimBahadur/blob/main/image.png" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Nasim Bahadur👋</h1>
+--->
+
 <!---
 <h3 align="left">Trainee @ B-JET</h3>
 --->
@@ -10,14 +12,14 @@ I'm a passionate Software Developer and  AI/ML Enthusiast with some experience i
 ## 👨🏽‍💻 What I'm working on
 Currently, I am working on B-JET Project (a Bangladesh-Japan IT Engineer Training Program) as a Trainee. This training program aims to develop ICT engineers to work in Japanese IT companies with skills set in the Japanese language, IT skills, and Soft skills.
 --->
-
+<!---
 ## 🧠 What I'm currently learning
 I'm currently learning ReactJS and MongoDB to improve my development skills and stay up-to-date with the latest technologies. I believe that continuous learning is the key to becoming a successful.
 
 ## 💬 Ask me about
 - <b>Topics:</b> SDLC, Software Development Methodologies, Scrum, Machine Learning
 - <b>Technologies:</b> HTML, CSS, Bootstrap, MySQL, PHP, Python, C++
-
+--->
 <!---
 ## ⚡ Fun fact
 [Insert a fun fact about yourself that people might find interesting.]
@@ -26,7 +28,7 @@ I'm currently learning ReactJS and MongoDB to improve my development skills and 
 I've very active, writing content regularly to at least one of these.
 - [Blog Link]
 --->
-
+<!---
 ## 📫 How to reach me
 <p align="left">
 <a href="https://linkedin.com/in/nasimbahadur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasimbahadur" height="30" width="40" /></a>
@@ -47,12 +49,11 @@ I've very active, writing content regularly to at least one of these.
 <a href="https://img.icons8.com/color/256/c-plus-plus-logo.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://img.icons8.com/color/256/python.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/python.png" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://img.icons8.com/color/256/mysql-logo.png" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/mysql-logo.png" alt="illustrator" width="40" height="40"/> </a> 
-  
+--->  
 <!---
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40"
---->
 --->
