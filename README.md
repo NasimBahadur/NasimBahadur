@@ -1,3 +1,4 @@
+<!---
 <img alt="Coder GIF" src="https://github.com/NasimBahadur/NasimBahadur/blob/main/image.png" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi there, I'm Nasim Bahadur👋</h1>
 <!---
@@ -53,4 +54,5 @@ I've very active, writing content regularly to at least one of these.
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40"
+--->
 --->
