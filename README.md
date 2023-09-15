@@ -1,15 +1,15 @@
 <!---
-Bio: I am a passionate software developer and AI /ML enthusiast with a focus on Web Technologies, Machine Learning and Data Science field.
+Bio: I am a passionate software developer and AI /ML enthusiast with a focus on Web Technologies, Machine Learning, and the Data Science field.
 --->
 
 <img alt="Coder GIF" src="https://github.com/NasimBahadur/NasimBahadur/assets/43060004/bba2457c-63c7-4670-9e2b-66f65d4d86ac" style="max-width: 100%;" data-target="animated-image.originalImage">
 <h1>Hi, I'm Nasim Bahadur👋</h1>
 
 
-<h3 align="left">Trainee @ B-JET</h3>
+<!--- <h3 align="left">Trainee @ B-JET</h3> --->
 --->
 <!---
-I'm a passionate Software Developer and  AI/ML Enthusiast with some experience in academic/personal projects on building web applications using HTML, CSS, Bootstrap, Javascript, MySQL, PHP etc. I have a good foundation in Web Techologies, Machine Learning and Data Science. I'm constantly learning new technologies to stay up-to-date with the latest trends.
+I'm a passionate Software Developer and  AI/ML Enthusiast with some experience in academic/personal projects on building web applications using HTML, CSS, Bootstrap, Javascript, MySQL, PHP, etc. I have a good foundation in Web Technologies, Machine Learning, and Data Science. I'm constantly learning new technologies to stay up-to-date with the latest trends.
 --->
 <!---
 ## 👨🏽‍💻 What I'm working on
