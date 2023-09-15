@@ -7,7 +7,7 @@ Bio: I am a passionate software developer and AI /ML enthusiast with a focus on 
 
 
 <!--- <h3 align="left">Trainee @ B-JET</h3> --->
---->
+
 <!---
 I'm a passionate Software Developer and  AI/ML Enthusiast with some experience in academic/personal projects on building web applications using HTML, CSS, Bootstrap, Javascript, MySQL, PHP, etc. I have a good foundation in Web Technologies, Machine Learning, and Data Science. I'm constantly learning new technologies to stay up-to-date with the latest trends.
 --->
